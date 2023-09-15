@@ -1,0 +1,5 @@
+D:\Descargas\Programación\Programas\Tarea2\bin\Debug\net7.0-windows\publish\Tarea2.exe
+D:\Descargas\Programación\Programas\Tarea2\bin\Debug\net7.0-windows\publish\Tarea2.dll
+D:\Descargas\Programación\Programas\Tarea2\bin\Debug\net7.0-windows\publish\Tarea2.deps.json
+D:\Descargas\Programación\Programas\Tarea2\bin\Debug\net7.0-windows\publish\Tarea2.runtimeconfig.json
+D:\Descargas\Programación\Programas\Tarea2\bin\Debug\net7.0-windows\publish\Tarea2.pdb
